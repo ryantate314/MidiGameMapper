@@ -1,0 +1,12 @@
+<midiMapperConfig version="0.1">
+	<mapping description="W Key" profile="defaultMap">
+		<input name="midiKey" value="159" description="C#4" />
+		<output name="keyboardKey" value="W" />
+	</mapping>
+	<mapping description="Mouse" profile="defaultMouse">
+		<input name="upKey" value="160" description="C#4" />
+		<input name="downKey" value="161" description="C#4" />
+		<input name="leftKey" value="162" description="C#4" />
+		<input name="rightKey" value="163" description="C#4" />
+	</mapping>
+</midiMapperConfig>
